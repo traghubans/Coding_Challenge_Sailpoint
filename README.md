@@ -36,3 +36,8 @@ For this Challenge, I thought the most practical route was a CLI tool that trigg
     - I used gmail for my smtp server, so a few things to note are:
         1. Make sure you allow less secure apps
         2. Comment out anything regarding enabling starttls
+    
+    
+#See it in Action 
+    
+![CodingChallenge](https://user-images.githubusercontent.com/26878417/135803992-1adc9ea7-254d-48e4-bdcd-2910ecc9f028.gif)
