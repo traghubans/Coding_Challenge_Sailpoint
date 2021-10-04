@@ -36,6 +36,7 @@ For this Challenge, I thought the most practical route was a CLI tool that trigg
     - I used gmail for my smtp server, so a few things to note are:
         1. Make sure you allow less secure apps
         2. Comment out anything regarding enabling starttls
+- Emails will always be sent from raghutrav@gmail.com
     
     
 #See it in Action 
