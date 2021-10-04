@@ -39,6 +39,6 @@ For this Challenge, I thought the most practical route was a CLI tool that trigg
 - Emails will always be sent from raghutrav@gmail.com
     
     
-#See it in Action 
+# See it in Action 
     
 ![CodingChallenge](https://user-images.githubusercontent.com/26878417/135803992-1adc9ea7-254d-48e4-bdcd-2910ecc9f028.gif)
