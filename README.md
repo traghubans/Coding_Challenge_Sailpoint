@@ -18,7 +18,7 @@ For this Challenge, I thought the most practical route was a CLI tool that trigg
 - CD into your local project repository
 - run 'bundle install'
 - run the following command in the project folder 
-    - ruby cli.rb request_mail "email"
+    - ruby cli.rb request_mail "email" (without the quotes)
 
 # Project Files / Folders
 - cli.rb: parse command line argument methods and send trigger
